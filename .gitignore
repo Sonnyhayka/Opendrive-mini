@@ -27,3 +27,6 @@ wandb/
 
 # Environment
 .env
+
+# Personal Plan
+plan
