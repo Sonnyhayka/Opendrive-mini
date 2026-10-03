@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Data
+data/*
+!data/.gitkeep
+
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Logs
+logs/
+wandb/
+
+# Environment
+.env
